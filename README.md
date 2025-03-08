@@ -82,7 +82,7 @@ diagramas/diagrama_classes.png
 git fork
 
 # Clone o repositório para sua máquina local
-git clone https://github.com/seu-usuario/repositorio.git
+git clone https://github.com/filipechgs/projeto_integrador_senac_poo_abfjlv.git
 
 # Crie uma branch para suas alterações
 git checkout -b minha-branch
