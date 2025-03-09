@@ -1,5 +1,12 @@
 # **Projeto Integrador III - SENAC**
+## **Integrantes**
 
+- Ana Cariane De Oliveira Grion
+- Bruna Regina Fini
+- Filipe Lima Guedes Chagas
+- Julio Cesar Souza Da Rocha Filho
+- Luisa Mariana Santos E Souza
+- Valéria Oliveira Silva
 ---
 
 ## **Introdução**
