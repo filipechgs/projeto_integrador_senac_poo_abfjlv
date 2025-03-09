@@ -61,15 +61,13 @@ E necessário ter uma conta no figma para vizualizar o protótipo interativo da 
 
 Os diagramas representam a modelagem do sistema utilizando a **UML**. Eles incluem os diagramas de **caso de uso e classes** desenvolvidos na primeira fase do projeto.
 
-```bash
+
 # Diagrama de Casos de Uso
-diagramas/diagrama_casos_uso.png
-[[[[PLACEHOLDER]]]]
+![Diagrama de Casos de Uso](./diagramas/diagrama-casos-de-uso.png)
 
 # Diagrama de Classes
-diagramas/diagrama_classes.png
-[[[[PLACEHOLDER]]]]
-```
+![Diagrama de Classes](./diagramas/diagrama-de-calsses.png)
+
 
 ---
 
