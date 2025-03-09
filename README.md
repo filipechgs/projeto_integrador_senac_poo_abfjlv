@@ -29,11 +29,22 @@ A prototipação foi realizada com base na modelagem de **casos de uso e diagram
 
 Os protótipos foram desenvolvidos para representar as principais funcionalidades do sistema. Cada interface foi projetada com base nos diagramas elaborados na primeira fase do projeto.
 
+### **Interface Interativa no Figma**
+E necessário ter uma conta no figma para vizualizar o protótipo interativo da interface, disponível no link a seguir.
+
+[Clique aqui ecesse o protótipo interativo](https://www.figma.com/proto/0FBw617EsrRqKlWKODjuj0/Sistema-Escolar?node-id=24-610&p=f&t=P17sZMwCagXx2Q1r-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=24%3A610https://www.figma.com/proto/0FBw617EsrRqKlWKODjuj0/Sistema-Escolar?node-id=24-610&p=f&t=P17sZMwCagXx2Q1r-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=24%3A610)
+
 ### **Interfaces Desenvolvidas**
+
+#### Tela Inicial
+![Tela Inicial](./prototipos/pagina-inicial.png)
+
+### Cadastro de Professores
+![Tela Inicial](./prototipos/cadastro-de-professores-0.png)
 
 ```bash
 # Cadastro de Pessoa Física
-prototipos/cadastro_pessoa_fisica.png
+(prototipos/)
 [[[[PLACEHOLDER]]]]
 
 # Cadastro de Pessoa Jurídica
