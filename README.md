@@ -1,4 +1,4 @@
-# **Projeto Integrador III - SENAC**
+# :computer: **Projeto Integrador III - SENAC**
 ## **Integrantes**
 
 - Ana Cariane De Oliveira Grion
