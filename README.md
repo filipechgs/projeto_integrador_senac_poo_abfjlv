@@ -1,7 +1,7 @@
 # :computer: **Projeto Integrador III - SENAC**
 ## **Integrantes**
 
-- Ana Cariane De Oliveira Grion
+- Ana Cariane de Oliveira Grion
 - Bruna Regina Fini
 - Filipe Lima Guedes Chagas
 - Julio Cesar Souza Da Rocha Filho
